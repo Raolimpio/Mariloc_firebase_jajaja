@@ -1,0 +1,35 @@
+Migration Summary:
+Total Machines: 28
+Successfully Migrated: 28
+Errors: 0
+
+--- Migration Logs ---
+
+Migrated machine: Betoneira 400L (18ws8xdAF9TCxAt7TlaB)
+Migrated machine: TEste (2Qgq2LKJiYssaS4BBTr4)
+Migrated machine: teste (32w9Y4FOPR1XNcraj3rI)
+Migrated machine: Furadeira SDS Plus (3QjOr1B37wVjNNgnA4oF)
+Migrated machine: Guincho de Coluna (4CVnvn3PzRYQsBLB1F2t)
+Migrated machine: Serra Circular (7yGkwZVXSy7YcFwK9YSm)
+Migrated machine: Teste 2 (9ZwTkIXKasNgFpi1htVQ)
+Migrated machine: Compactador de Solo (C41dLchVGBRzGWOQg0w3)
+Migrated machine: Betoneira 200L (Ddv9EsNvyV51hPYm9Cr9)
+Migrated machine: Compactador de Solo (E2CIlVc9lkx6eWZxoUrd)
+Migrated machine: Compactador de Solo (FtRP7iRQPcYGb3M81bPE)
+Migrated machine: Gerador 7500 (Gmd2vLrfpgaesh3t8kBq)
+Migrated machine: Guincho de Coluna (KtwmopWMxs0scZwB0AKV)
+Migrated machine: Serra Circular (Qnx7C2LJgzCrcSKryNjY)
+Migrated machine: teste (Smhm7zvVsn0pqkDmzOyM)
+Migrated machine: Compressor de Ar 100L (U05gSBn4euIVhMHop46K)
+Migrated machine: Serra Circular (VHvHW4X5IqTrewHuiwD8)
+Migrated machine: Betoneira 400L (Xxj7YypJGQ5pFsChanvF)
+Migrated machine: Betoneira 200L (Zd4VCCaZFmms8oBJLJyF)
+Migrated machine: Furadeira SDS Plus (hcZebo1g2ydbTQp5EgLZ)
+Migrated machine: Compressor de Ar 100L (iAt3QUF9qTZARP13z8Mu)
+Migrated machine: Compressor de Ar 100L (mV7vuuvRvr27XIjJvyMc)
+Migrated machine: Gerador 7500 (opiuhBXri8oAFl69qBwz)
+Migrated machine: Furadeira SDS Plus (oxCEAnL0B5Za5f8wi1Ab)
+Migrated machine: Betoneira 400L (rO22YpiwCrANxfml4upZ)
+Migrated machine: Guincho de Coluna (rTUus7IQrUmuQo3ZPFuv)
+Migrated machine: Gerador 7500 (y4YfDI4dRhousT4iWIsO)
+Migrated machine: Betoneira 200L (yXuNQfYskWOYGJtBejtn)
